@@ -10,9 +10,11 @@ Por exemplo:
 2° desafio - Staircase: Imprimir em ordem crescente (com base em um valor n recebido) uma "escadinha" de hashtags
 
 # Use cases
-![img.png](img.png)
+![img.png](img.png) 
+
 ![img_1.png](img_1.png)
 
 
 ![img_2.png](img_2.png)
+
 ![img_3.png](img_3.png)
