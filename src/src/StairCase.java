@@ -13,9 +13,6 @@ public class StairCase {
             n = n - 1;
             auxiliarCount = auxiliarCount + 1;
         }
-
     }
-
-
 }
 
